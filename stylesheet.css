@@ -1,0 +1,34 @@
+.gallery img{
+width: 100%;
+}
+.menu{
+  width: 100%;
+  height: 20px;
+  background-color: cornflowerblue;
+  padding: 12px;
+}
+.menu a{
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: 800;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.menu a:hover{
+  color: #5077bd;
+}
+h4 {
+  font-family: impact, fantasy;
+  font-size: 20px;
+  font-style: italic;
+  color: cornflowerblue;
+}
+h2{
+  color: cornflowerblue;
+  text-align: center;
+  font-style: italic;
+  font-family: impact, fantasy;
+}
