@@ -2,7 +2,7 @@
 width: 100%;
 }
 .gallery img:hover{
-  opacity: 0.5;
+  opacity: 0.8;
 }
 .menu{
   position: fixed;
@@ -41,7 +41,7 @@ h2{
   margin-left: 105px;
 }
 P{
-  color: white;
+  color: cornflowerblue;
   font-family: Arial, Helvetica, sans-serif;
 }
 .back-link img{
